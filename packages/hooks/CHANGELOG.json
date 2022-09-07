@@ -1,0 +1,17 @@
+{
+  "name": "@jos/hooks",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@jos/hooks_v1.0.1",
+      "date": "Tue, 06 Sep 2022 16:46:55 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "feat: update this component"
+          }
+        ]
+      }
+    }
+  ]
+}

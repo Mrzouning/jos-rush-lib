@@ -1,0 +1,22 @@
+{
+  "name": "@jos/components",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@jos/components_v1.0.1",
+      "date": "Tue, 06 Sep 2022 16:46:55 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "feat: update components"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@jos/hooks\" to `1.0.1`"
+          }
+        ]
+      }
+    }
+  ]
+}
