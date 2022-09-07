@@ -39,5 +39,5 @@
 #
 
 # //43.138.232.95/:_authToken="UfFVF5Ad41qgW3tlxpXDNQ=="
-registry=http://localhost:4873/
-//localhost:4873/:_authToken="gNq0xyXUpSfjJFhDCWyw+w=="
+registry=http://43.138.232.95/
+//43.138.232.95/:_authToken="UfFVF5Ad41qgW3tlxpXDNQ=="
