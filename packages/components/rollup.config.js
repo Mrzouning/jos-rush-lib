@@ -9,7 +9,9 @@ export default {
     file: pkJson.module,
   },
   plugins: [
-    swc({ ...swcConfig }),
+    swc({
+      ...swcConfig,
+    }),
     typescript({
       tsconfig: "./tsconfig.json",
     }),
