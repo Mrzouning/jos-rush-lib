@@ -1,6 +1,13 @@
 # Change Log - @jos/components
 
-This log was last generated on Thu, 08 Sep 2022 04:50:53 GMT and should not be manually modified.
+This log was last generated on Thu, 08 Sep 2022 05:52:44 GMT and should not be manually modified.
+
+## 2.1.3
+Thu, 08 Sep 2022 05:52:44 GMT
+
+### Patches
+
+- hello
 
 ## 2.1.2
 Thu, 08 Sep 2022 04:50:53 GMT
