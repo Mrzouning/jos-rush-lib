@@ -2,6 +2,18 @@
   "name": "@jos/hooks",
   "entries": [
     {
+      "version": "2.3.0",
+      "tag": "@jos/hooks_v2.3.0",
+      "date": "Thu, 08 Sep 2022 07:52:39 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "kkk"
+          }
+        ]
+      }
+    },
+    {
       "version": "2.2.1",
       "tag": "@jos/hooks_v2.2.1",
       "date": "Thu, 08 Sep 2022 07:47:22 GMT",
