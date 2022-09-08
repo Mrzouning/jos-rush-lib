@@ -27,7 +27,6 @@
     "packages"
   ],
   "exclude": [
-    "temp",
     "node_modules"
   ]
 }
