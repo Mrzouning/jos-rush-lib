@@ -1,6 +1,13 @@
 # Change Log - @jos/hooks
 
-This log was last generated on Thu, 08 Sep 2022 07:52:39 GMT and should not be manually modified.
+This log was last generated on Thu, 08 Sep 2022 10:10:46 GMT and should not be manually modified.
+
+## 2.3.1
+Thu, 08 Sep 2022 10:10:46 GMT
+
+### Patches
+
+- dd
 
 ## 2.3.0
 Thu, 08 Sep 2022 07:52:39 GMT
