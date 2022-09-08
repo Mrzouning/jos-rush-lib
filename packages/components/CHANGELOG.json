@@ -2,6 +2,23 @@
   "name": "@jos/components",
   "entries": [
     {
+      "version": "2.2.1",
+      "tag": "@jos/components_v2.2.1",
+      "date": "Thu, 08 Sep 2022 07:26:32 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "fuck"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@jos/hooks\" to `2.2.1`"
+          }
+        ]
+      }
+    },
+    {
       "version": "2.2.0",
       "tag": "@jos/components_v2.2.0",
       "date": "Thu, 08 Sep 2022 06:37:27 GMT",
