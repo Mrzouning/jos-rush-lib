@@ -2,7 +2,7 @@ import { jsx, Fragment, jsxs } from 'react/jsx-runtime';
 import { Fragment as Fragment$1 } from 'react';
 import cn from 'classnames';
 import { Listbox, Transition } from '@headlessui/react';
-import { ChevronDownIcon, CheckIcon } from '@heroicons/react/24/solid';
+import { ChevronUpDownIcon, CheckIcon } from '@heroicons/react/24/solid';
 
 /**
  * Primary UI component for user interaction
@@ -20,7 +20,7 @@ import { ChevronDownIcon, CheckIcon } from '@heroicons/react/24/solid';
 
 const Loading = ()=>{
     return /*#__PURE__*/ jsx(Fragment, {
-        children: "Loading..."
+        children: "Loading....."
     });
 };
 
@@ -60,7 +60,7 @@ const Select = ({ selected , onChange , list  })=>{
                             }),
                             /*#__PURE__*/ jsx("span", {
                                 className: "pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2",
-                                children: /*#__PURE__*/ jsx(ChevronDownIcon, {
+                                children: /*#__PURE__*/ jsx(ChevronUpDownIcon, {
                                     className: "h-5 w-5 text-gray-400",
                                     "aria-hidden": "true"
                                 })
