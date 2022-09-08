@@ -20,7 +20,7 @@ import { ChevronUpDownIcon, CheckIcon } from '@heroicons/react/24/solid';
 
 const Loading = ()=>{
     return /*#__PURE__*/ jsx(Fragment, {
-        children: "Loading....."
+        children: "Loading...."
     });
 };
 
